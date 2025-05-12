@@ -26,7 +26,7 @@ This project is a 3D game leveraging the power of React Three Fiber for renderin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/r3f-game.git
+   git clone https://github.com/gaellegoyon/r3f-game
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,4 +46,3 @@ npm start
 ```
 
 Open your browser and navigate to `http://localhost:3000`.
-
